@@ -1,4 +1,4 @@
-int LED_PIN = 6;
+int LED_PIN = 13;
 
 void setup() {
   Serial.begin(9600);
